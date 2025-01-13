@@ -69,7 +69,7 @@ public class Ej12 {
 		
 		for(int i =0; i<n; i++) {
 			
-			res[]= notas[i];
+			res[i]= notas[i];
 		}
 		
 		for(int i =0 ; i<a; i++) {
