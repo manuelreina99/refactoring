@@ -10,11 +10,11 @@ public class Ej1 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int[] myList= new int[n];
+		int[] myList= new int[10];
 		
 		for (int i = 0; i < myList.length; i++) {
 			System.out.println("introduzca numero");
-		 myList[j] = sc.nextInt();
+		 myList[i] = sc.nextInt();
 		}
 		
 		for ( int a : myList) {

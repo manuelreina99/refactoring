@@ -24,7 +24,7 @@ public class Ej4 {
 		 
 		 int multiplicacion=myList[0];
 		 int suma=myList[0];
-		 int resta=myList[];
+		 int resta=myList[0];
 		 int division=myList[0];
 		 
 		 for(int a=1; a<myList.length; a++) {

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Boletin7</name>
+=======
+	<name>refactoringmanu</name>
+>>>>>>> branch 'main' of git@github.com:manuelreina99/refactoring.git
 	<comment></comment>
 	<projects>
 	</projects>
