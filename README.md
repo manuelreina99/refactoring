@@ -26,3 +26,24 @@
  características similares contiene las horas trabajadas por cada uno de ellos. Si la hora se
  paga a 20 €., calcular e imprimir lo que cobrará cada uno de ellos, así como el empleado
  que más gana y el que menos gana
+
+ Refactorización Realizada:
+
+Nombres de Variables y Métodos Descriptivos:
+
+Los nombres de variables y métodos se hicieron más claros y descriptivos para mejorar la legibilidad y comprensión del código.
+Uso de Bucles for-each:
+
+Se reemplazaron los bucles for tradicionales por for-each donde era apropiado, lo que simplifica la iteración sobre arrays.
+Eliminación de Código Innecesario:
+
+Se eliminó código redundante y bloques else vacíos, simplificando el flujo del programa.
+Control de Errores:
+
+Se añadió manejo de errores para evitar problemas como la división por cero.
+Cierre Adecuado de Recursos:
+
+El Scanner se cierra correctamente para liberar recursos.
+Mejora en los Mensajes de Usuario:
+
+Los mensajes de entrada y salida son más claros y detallados, mejorando la experiencia del usuario.
