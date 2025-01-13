@@ -52,7 +52,7 @@ public class Ej9 {
 			 
 			 if (horasTrabajadas[i]==maximo) {
 				 
-				 System.out.println("El empleado "+ nombres[i]+ " ha sido el/la que más ha ganado "+ horas[i]*20);
+				 System.out.println("El empleado "+ nombres[i]+ " ha sido el/la que más ha ganado "+ horasTrabajadas[i]*20);
 				
 			}else if (horasTrabajadas[i]==minimo) {
 				

@@ -36,7 +36,7 @@ public class Ej5 {
 			
 			if (myList[i]==0) {
 				
-				cot_0++;
+				cont_0++;
 			}
 			else if (myList[i]<0) {
 				
@@ -73,7 +73,7 @@ public class Ej5 {
 		
 		System.out.println("la media de los numeros negativos es:"+ media(myListNegativos));
 		
-		System.out.println("la media de los numeros positivos es:"+ edia(myListPositivos));
+		System.out.println("la media de los numeros positivos es:"+ media(myListPositivos));
 		
 		System.out.println("el numero de 0 introducidos es:"+ cont_0);
 		
